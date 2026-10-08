@@ -10,7 +10,7 @@ Olá, me chamo Victor Santana, tenho 21 anos, sou natural de Manaus - AM e atual
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/shinso.gif">
 
 <h3 align="left">Connect with me!</h3>
 
